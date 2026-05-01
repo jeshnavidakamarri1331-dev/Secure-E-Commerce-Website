@@ -47,12 +47,12 @@ Security Layer: Wordfence plugin,
 Database Layer: MySQL.
 
 ### Features
-User Registration & Login
-Product Catalog
-Shopping Cart
-Secure Checkout
-Payment Integration
-Order Management
+User Registration & Login,
+Product Catalog,
+Shopping Cart,
+Secure Checkout,
+Payment Integration,
+Order Management.
 
 ## Contributing
 
