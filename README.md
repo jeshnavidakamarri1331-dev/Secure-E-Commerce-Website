@@ -89,4 +89,4 @@ This project is for educational purposes.
 
 ## Author
 
-**Jeshnavi**
+**Jeshnavi Dakamarri**
