@@ -41,10 +41,10 @@ This project demonstrates how a scalable and secure e-commerce solution can be b
 6. Deploy on hosting platform
 
 ### Key Components
-Client Layer: Web browser interface
-Server Layer: WordPress core + WooCommerce
-Security Layer: Wordfence plugin
-Database Layer: MySQL
+Client Layer: Web browser interface,
+Server Layer: WordPress core + WooCommerce,
+Security Layer: Wordfence plugin,
+Database Layer: MySQL.
 
 ### Features
 User Registration & Login
