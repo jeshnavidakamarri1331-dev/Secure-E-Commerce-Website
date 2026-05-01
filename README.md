@@ -35,7 +35,8 @@ This project demonstrates the architecture and implementation of a secure e-comm
 
 ### Data Flow Diagram (DFD)
 
-![DFD](docs/images/dfd.png)
+<img width="1234" height="618" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/f08403a1-6489-4ab7-b950-4e8bc424d7bd" />
+
 
 ### System Architecture Diagram
 
