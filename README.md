@@ -16,9 +16,9 @@ Rate limiting to prevent automated abuse and DDoS-style requests
 Two-factor authentication (2FA) for stronger login security
 HTTPS encryption for secure data transmission
 
-### Data Flow Diagram (DFD)
+### System Architecture Diagram
 
-<img width="1234" height="618" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/f08403a1-6489-4ab7-b950-4e8bc424d7bd" />
+<img width="883" height="615" alt="System Architecture" src="https://github.com/user-attachments/assets/eceec962-2ab1-4791-95ac-d356001ec6f1" />
 
 On the backend, the system uses a MySQL database to securely store and manage users, products, orders, payments, and session data. The architecture follows a structured layered model consisting of:
 Client Layer: Web browser interface for users
@@ -26,9 +26,9 @@ Application Layer: WordPress core and WooCommerce handling business logic
 Security Layer: Security plugins monitoring and protecting the system
 Database Layer: MySQL handling persistent data storage
 
-### System Architecture Diagram
+### Data Flow Diagram (DFD)
 
-<img width="883" height="615" alt="System Architecture" src="https://github.com/user-attachments/assets/eceec962-2ab1-4791-95ac-d356001ec6f1" />
+<img width="1234" height="618" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/f08403a1-6489-4ab7-b950-4e8bc424d7bd" />
 
 This project demonstrates how a scalable and secure e-commerce solution can be built using widely adopted open-source technologies, while maintaining both functionality and strong cybersecurity practices.
 
