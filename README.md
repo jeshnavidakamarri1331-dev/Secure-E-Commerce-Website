@@ -33,12 +33,12 @@ Database Layer: MySQL handling persistent data storage
 This project demonstrates how a scalable and secure e-commerce solution can be built using widely adopted open-source technologies, while maintaining both functionality and strong cybersecurity practices.
 
 ### Setup Instructions
-Install WordPress
-Install and activate WooCommerce
-Configure MySQL database
-Install security plugins (Wordfence, WP 2FA)
-Configure HTTPS
-Deploy on hosting platform
+1. Install WordPress
+2. Install and activate WooCommerce
+3. Configure MySQL database
+4. Install security plugins (Wordfence, WP 2FA)
+5. Configure HTTPS
+6. Deploy on hosting platform
 
 ### Key Components
 Client Layer: Web browser interface
