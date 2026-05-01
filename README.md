@@ -40,7 +40,8 @@ This project demonstrates the architecture and implementation of a secure e-comm
 
 ### System Architecture Diagram
 
-![Architecture](docs/images/architecture.png)
+<img width="883" height="615" alt="System Architecture" src="https://github.com/user-attachments/assets/eceec962-2ab1-4791-95ac-d356001ec6f1" />
+
 
 ## Workflow
 
