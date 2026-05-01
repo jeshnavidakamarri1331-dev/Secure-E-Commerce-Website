@@ -15,7 +15,7 @@ This project demonstrates the architecture and implementation of a secure e-comm
 
 ## Tech Stack
 
-* **Frontend**: HTML, CSS, JavaScript
+* **Frontend**: HTML, CSS, JavaScript, PHP
 * **Backend**: WordPress
 * **E-Commerce Engine**: WooCommerce
 * **Database**: MySQL
